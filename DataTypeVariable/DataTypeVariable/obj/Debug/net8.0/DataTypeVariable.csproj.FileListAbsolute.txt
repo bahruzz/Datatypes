@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\OperatorsDatatypeVariable\DataTypeVariable\DataTypeVariable\bin\Debug\net8.0\DataTypeVariable.exe
+C:\Users\user\Desktop\OperatorsDatatypeVariable\DataTypeVariable\DataTypeVariable\bin\Debug\net8.0\DataTypeVariable.deps.json
+C:\Users\user\Desktop\OperatorsDatatypeVariable\DataTypeVariable\DataTypeVariable\bin\Debug\net8.0\DataTypeVariable.runtimeconfig.json
+C:\Users\user\Desktop\OperatorsDatatypeVariable\DataTypeVariable\DataTypeVariable\bin\Debug\net8.0\DataTypeVariable.dll
+C:\Users\user\Desktop\OperatorsDatatypeVariable\DataTypeVariable\DataTypeVariable\bin\Debug\net8.0\DataTypeVariable.pdb
+C:\Users\user\Desktop\OperatorsDatatypeVariable\DataTypeVariable\DataTypeVariable\obj\Debug\net8.0\DataTypeVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\OperatorsDatatypeVariable\DataTypeVariable\DataTypeVariable\obj\Debug\net8.0\DataTypeVariable.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\OperatorsDatatypeVariable\DataTypeVariable\DataTypeVariable\obj\Debug\net8.0\DataTypeVariable.AssemblyInfo.cs
+C:\Users\user\Desktop\OperatorsDatatypeVariable\DataTypeVariable\DataTypeVariable\obj\Debug\net8.0\DataTypeVariable.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\OperatorsDatatypeVariable\DataTypeVariable\DataTypeVariable\obj\Debug\net8.0\DataTypeVariable.dll
+C:\Users\user\Desktop\OperatorsDatatypeVariable\DataTypeVariable\DataTypeVariable\obj\Debug\net8.0\refint\DataTypeVariable.dll
+C:\Users\user\Desktop\OperatorsDatatypeVariable\DataTypeVariable\DataTypeVariable\obj\Debug\net8.0\DataTypeVariable.pdb
+C:\Users\user\Desktop\OperatorsDatatypeVariable\DataTypeVariable\DataTypeVariable\obj\Debug\net8.0\DataTypeVariable.genruntimeconfig.cache
+C:\Users\user\Desktop\OperatorsDatatypeVariable\DataTypeVariable\DataTypeVariable\obj\Debug\net8.0\ref\DataTypeVariable.dll
